@@ -1,4 +1,4 @@
-package org.example;
+package org.example.builder;
 
 
 import org.example.builder.Animal;
